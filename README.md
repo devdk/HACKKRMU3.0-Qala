@@ -1,2 +1,3 @@
-# HACKKRMU3.0-Qala
-Open Innovative
+# Qala
+
+>OPEN INNOVATIVE : Project Submission for HACKKRMU3.0
